@@ -1,6 +1,3 @@
- /*@import url('https://fonts.googleapis.com/css?family=Montserrat');*/
-
-@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&family=Roboto:ital,wght@1,500&display=swap');
 body {
     margin: 0px;
     padding: 0px;
@@ -30,7 +27,7 @@ background-image: url("debugged-software-bg-animation.gif");
   transform: translate(2%,40%);
 }
 #bsr-ico{
-  transform: translate(-90%,-220%);
+  transform: translate(-90%,-250%);
  /**transform: rotateX(150deg);
    *transform: rotateY(130deg);
    *transform: rotateZ(90deg);
@@ -40,7 +37,7 @@ background-image: url("debugged-software-bg-animation.gif");
 
 #search
 {
-  transform: translate(0.5%,-210%);
+  transform: translate(17%,-600%);
 }
 
 .input-bar{
@@ -62,12 +59,12 @@ color: #000;
 #s-btn
 {
  border-color: #000;
-background-image: url("sbtn.png");
+/*background-image: url("sbtn.png");*/
  border-width: 3px;
   border-radius: 30px;
   width: 42px;
   height: 42px;
-  transform: translate(577%,-102.3%);
+  transform: translate(-110%,-1%);
 }
 .socialYt
 {
@@ -219,7 +216,7 @@ background-image: url("sbtn.png");
                 background 0.5s cubic-bezier(0.77,0.2,0.05,1.0),
                 opacity 0.55s ease;
   
-                transform: translate(-20%,-300%);
+                transform: translate(100%,-300%);
   }
   
   #menuToggle span:first-child
@@ -313,11 +310,11 @@ background-image: url("sbtn.png");
 }
 #safe-and-secure-txt{
   font-family: 'Goldman', cursive;
-  transform: translate(22%,-770%);
+  transform: translate(22%,-980%);
 }
 #Encrypted{
   font-family: 'Goldman', cursive;
-  transform: translate(23%,-1100%);
+  transform: translate(23%,-1205%);
 }
 #encrypted-icon{
   transform: translate(40%,-500%);
@@ -354,7 +351,7 @@ background-image: url("sbtn.png");
 #toolbar-refresh-icon{
   width: 20%;
   height: 20%;
-  transform: translate(427%,-965%);
+  transform: translate(-3%,-545%);
 }
 .socialchrome {
  
@@ -372,7 +369,7 @@ background-image: url("sbtn.png");
   transform: translate(-20%,-440%);
 }
 #OIN-PNG{
-  transform: translate(-75%,-505%);
+  transform: translate(-75%,-10485%);
 }
 /*second set starts*/
 #amazon{
